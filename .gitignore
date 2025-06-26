@@ -40,7 +40,7 @@ out/
 *.rar
 
 ### Exclusions ###
-!**/artifacts**
+!artifacts/app-deadline.jar
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
